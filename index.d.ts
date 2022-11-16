@@ -1,0 +1,1 @@
+export { default as searchParams } from './lib/search-params';
